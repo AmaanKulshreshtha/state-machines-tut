@@ -1,0 +1,15 @@
+{
+	"name": "state-machines-tut",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"fs-extra": "^8.1.0",
+		"http": "^0.0.0",
+		"path": "^0.12.7"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
